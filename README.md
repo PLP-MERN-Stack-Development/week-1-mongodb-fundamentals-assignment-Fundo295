@@ -52,5 +52,5 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 | `insert_books.js` | Contains sample book data inserted into the `books` collection          |
 | `queries.js`      | MongoDB queries for CRUD, advanced filtering, aggregation, and indexing |
 | `README.md`       | Project setup and usage instructions                                    |
-| `screenshot.png`  | Screenshot of your database in Compass or Atlas (add manually)          |
+| `screenshot.png`  | Screenshot          |
 
