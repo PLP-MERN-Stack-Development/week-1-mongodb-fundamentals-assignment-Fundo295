@@ -1,5 +1,5 @@
 // Switch to the correct database
-useplp_bookstore;
+use plp_bookstore;
 
 // 📦 Task 2: Basic CRUD Operations
 
