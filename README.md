@@ -44,4 +44,11 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 
 - [MongoDB Documentation](https://docs.mongodb.com/)
 - [MongoDB University](https://university.mongodb.com/)
-- [MongoDB Node.js Driver](https://mongodb.github.io/node-mongodb-native/) 
+- [MongoDB Node.js Driver](https://mongodb.github.io/node-mongodb-native/)
+
+## 📁 Project Structure
+File	Description
+insert_books.js	Contains sample book data inserted into the books collection
+queries.js	MongoDB queries for CRUD, advanced filtering, aggregation, and indexing
+README.md	Project setup and usage instructions
+screenshot.png	Screenshot
